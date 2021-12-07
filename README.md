@@ -1,6 +1,6 @@
 Hello
 
-Is me, trying to code my golfing life easier
+Is me, trying to code my golfing
 
 -Ted
 
